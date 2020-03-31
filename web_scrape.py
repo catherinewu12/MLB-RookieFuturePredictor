@@ -1,3 +1,7 @@
+"""
+Script to scrape player's service time from FanGraphs site and classify them as having made 5 years in the MLB or not.
+"""
+
 import bs4
 from urllib.request import urlopen as uReq
 from bs4 import BeautifulSoup
