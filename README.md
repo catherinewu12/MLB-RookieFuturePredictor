@@ -1,4 +1,4 @@
-# MLB-RookieStats
+# MLB-RookieFuturePredictor
 This project aims to reveal which MLB Rookie stat serves as the greatest indicator for career success in the league.
 
 ## Models
