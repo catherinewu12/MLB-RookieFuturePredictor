@@ -7,5 +7,5 @@ The code for this project is broken up into to main sections. The first model wa
  five years following their rookie season. Both models are built in Python and use sklearn functionalities and classifiers.
  
  ## Report
- A full length article discussing the process, results, and predictions can be found at https://www.qsao-queens.com/content/
+ A full length article discussing the process, results, and predictions can be found at https://www.qsao-queens.com/content/2020/4/5/mlb-rookie-to-superstar-factors-that-lead-to-success
  
